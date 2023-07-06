@@ -1,0 +1,12 @@
+{
+    "nomor_tujuan": "6282250801595@c.us",
+    "nomor_bot": "6289524550481",
+    "mqtt_broker":"mqtt://broker.emqx.io",
+    "//": "isi parameter diatas",
+    "nomor tujuan": "isi nomor tujuan",
+    "nomor bot": "isi nomor yang digunakan bot ",
+    "mqtt broker": "isi alamat broker mqtt yang digunakan"
+}
+
+
+
